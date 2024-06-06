@@ -1,5 +1,7 @@
 # OmniLauncher
 
+### "The all in one launcher"
+
 ## Description
 OmniLauncher is a simple application built using Python's Tkinter library. It provides a customizable launcher interface for quickly accessing frequently used websites and applications.
 
