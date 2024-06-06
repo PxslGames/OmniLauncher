@@ -1,5 +1,6 @@
 # OmniLauncher
 
+## Description
 OmniLauncher is a simple application built using Python's Tkinter library. It provides a customizable launcher interface for quickly accessing frequently used websites and applications.
 
 ## Features
@@ -25,8 +26,3 @@ Contributions are welcome! If you'd like to contribute to OmniLauncher, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-OmniLauncher was inspired by [ChatGPT](https://chat.openai.com), powered by OpenAI.
-```markdown````
