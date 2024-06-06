@@ -9,41 +9,7 @@ OmniLauncher is a simple application built using Python's Tkinter library. It pr
 - **Integrated Web Browser**: Open your favorite websites directly from the launcher.
 
 ## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-
-### Installation
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your_username/OmniLauncher.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd OmniLauncher
-   ```
-
-3. Install the required dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. Run the application:
-
-   ```
-   python omnilauncher.py
-   ```
-
-2. The OmniLauncher window will appear with the main menu.
-3. Click on the buttons to navigate between different pages and launch websites.
+**Give me a star for now, and it will be released soon!**
 
 ## Contributing
 
